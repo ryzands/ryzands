@@ -32,15 +32,15 @@ I help startups, agencies, and enterprises clear technical backlogs, build inter
 ### 🏗️ Featured Architectural Case Studies
 *(Note: Due to strict banking & enterprise NDAs, source code for production systems remains private. Below are sanitized architectural blueprints, schemas, and engineering deep-dives.)*
 
-1. **[Enterprise Core Financial & Transactional System (SIAA)](#)**  
+1. **[Enterprise Core Financial & Transactional System (SIAA)](https://github.com/ryzands/enterprise-core-erp-accounting-architecture)**  
    *High-accuracy transactional processing engine serving 10+ branch offices with strict audit trails and automated regulatory reporting.*
    `Next.js` `NestJS` `PostgreSQL` `Docker`
 
-2. **[Unified IT Operations, Knowledge Portal & Hybrid Storage (IT Hub)](#)**  
+2. **[Unified IT Operations, Knowledge Portal & Hybrid Storage (IT Hub)](https://github.com/ryzands/enterprise-it-operations-portal-architecture)**  
    *Replaced fragmented legacy tools with a centralized operational portal. Implemented tiered MinIO/TrueNAS hybrid object storage to slash cloud storage overhead.*
    `Next.js` `NestJS` `Prisma` `MinIO` `Tailscale`
 
-3. **[Enterprise Risk Management & Compliance Engine (SIMARKO)](#)**  
+3. **[Enterprise Risk Management & Compliance Engine (SIMARKO)](https://github.com/ryzands/enterprise-risk-compliance-engine-architecture)**  
    *Multi-branch risk tracking and mitigation platform with strict role-based approval workflows and immutable audit logs.*
    `Full-Stack` `RBAC` `Database Architecture`
 
@@ -55,5 +55,5 @@ I help startups, agencies, and enterprises clear technical backlogs, build inter
 ### 🤝 Available for Contract & Sub-Contracting
 I am currently open for **part-time retainer contracts, backlog clearing, and infrastructure setup/migration projects**.
 
-* **Best way to reach me:** [mail@marisandriawan.my.id](mailto:mail@marisandriawan.my.id) or via [LinkedIn](#)
+* **Best way to reach me:** [mail@marisandriawan.my.id](mailto:mail@marisandriawan.my.id) or via [LinkedIn](https://www.linkedin.com/in/marisandri/)
 * **To start fast:** Send over a brief overview of your current tech stack and the main bottleneck you want solved. I will reply with an initial technical assessment within 24 hours.

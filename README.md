@@ -47,8 +47,8 @@ I help startups, agencies, and enterprises clear technical backlogs, build inter
 ---
 
 ### 📦 Open-Source Boilerplates & Scripts
-* **[enterprise-nestjs-nextjs-starter](#):** Production-ready monorepo template featuring JWT/RBAC authentication, Prisma setup, and multi-stage Docker builds.
-* **[automated-hybrid-backup-scripts](#):** Battle-tested Bash & Rclone scripts for automated PostgreSQL/MySQL dumping and encrypted syncing to S3/MinIO.
+* **[enterprise-nestjs-nextjs-starter](https://github.com/ryzands/enterprise-nestjs-nextjs-starter):** Production-ready monorepo template featuring JWT/RBAC authentication, Prisma setup, and multi-stage Docker builds.
+* **[automated-hybrid-backup-scripts](https://github.com/ryzands/automated-hybrid-backup-scripts):** Battle-tested Bash & Rclone scripts for automated PostgreSQL/MySQL dumping and encrypted syncing to S3/MinIO.
 
 ---
 
